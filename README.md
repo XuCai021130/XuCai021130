@@ -5,7 +5,7 @@
   <div id="about">
     <h2>About Me</h2>
     <ul>
-      <li>🔭 I come from China and now studying in US.
+      <li>🔭 I come from China and now study in US.
       <li>🌱 I'm constantly learning and improving my skills in <span>Software Enginnering and Product Management</span>.</li>
       <li>💡 I love to explore new technologies and find innovative solutions.</li>
       <li>🎓 I am currently a junior at Brandeis University pursuing a major in Computer Science, Applied Mathematics, and a minor in Economics.</span>.</li>
