@@ -1,9 +1,30 @@
-- 👋 Hi, I’m Xu Cai. I am from China.
-- 👀 I’m interested in ...
-- 🌱 I’m currently a sophomore in US
-- 📫 How to reach me ...
 
-<!---
-XuCai021130/XuCai021130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<body>
+  <h1>Hello, I'm <span>Xu Cai</span> 👋</h1>
+
+  <div id="about">
+    <h2>About Me</h2>
+    <ul>
+      <li>🌱 I'm constantly learning and improving my skills in <span>Software Enginnering and Product Management</span>.</li>
+      <li>💡 I love to explore new technologies and find innovative solutions.</li>
+      <li>🎓 I am currently a junior at Brandeis University pursuing a major in Computer Science, Applied Mathematics, and a minor in Economics.</span>.</li>
+    </ul>
+  </div>
+
+  <div id="skills">
+    <h2>Professional Skills</h2>
+    <ul>
+      <li>Back-end Languages: <span>Java, Python, Node.js, TypeScript</span></li>
+      <li>Front-end languages: <span>HTML, CSS, JavaScript, Next.js, React.</span></li>
+      <li>Database and analysis: <span>SQL, MongoDB, Numpy.</span></li>
+    </ul>
+  </div>
+
+  <div id="connect">
+    <h2>Connect with Me</h2>
+    <ul>
+      <li>GitHub: <a href="https://github.com/XuCai021130">https://github.com/XuCai021130</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/xu-cai-30a698244/">https://www.linkedin.com/in/xu-cai-30a698244/</a></li>
+      <li>Email Address: <span>1981936752@qq.com  &  xucai7140@gmail.com</span></li> 
+    </ul>
+  </div>
