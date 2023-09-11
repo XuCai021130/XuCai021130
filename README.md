@@ -24,7 +24,6 @@
   <div id="connect">
     <h2>Connect with Me</h2>
     <ul>
-      <li>GitHub: <a href="https://github.com/XuCai021130">https://github.com/XuCai021130</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/xu-cai-30a698244/">https://www.linkedin.com/in/xu-cai-30a698244/</a></li>
       <li>Email Address: <span>1981936752@qq.com  &  xucai7140@gmail.com</span></li> 
     </ul>
