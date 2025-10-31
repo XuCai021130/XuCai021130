@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xu Cai</h1>
-<h3 align="center">A passionate CS student eager to leverage my expertise to contribute to meaningful advancements.</h3>
 
-- 🌱 I’m currently learning **Operating Systems, Computer Security, Machine Learning**
+🎓 MSCS @ Yale University
 
-- 📫 How to reach me: **xucai7140@gmail.com**
+💻 Building projects in Python • React • Java • Flask
 
-- ⚡ Fun fact: **When I was little, I totally thought I'd be a superhero, saving the world all by myself. Blame it on all the cartoons I watched. It sounds silly, but man, I was super serious about it back then.**
+🚀 Passionate about scalable systems, trustworthy AI, and data visualization
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
