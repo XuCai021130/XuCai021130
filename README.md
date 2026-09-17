@@ -2,9 +2,9 @@
 
 🎓 MSCS @ Yale University
 
-💻 Building projects in Python • React • Java • Flask
+💻 Building projects in Python • React • Java Spring • Flask
 
-🚀 Passionate about scalable systems, trustworthy AI, and data visualization
+🚀 Passionate about scalable systems, AI Agent, and FullStack Applications
 
 
 <h3 align="left">Connect with me:</h3>
